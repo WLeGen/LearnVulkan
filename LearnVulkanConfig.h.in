@@ -1,0 +1,2 @@
+#define LearnVulkan_VERSION_MAJOR @LearnVulkan_VERSION_MAJOR@
+#define LearnVulkan_VERSION_MINOR @LearnVulkan_VERSION_MINOR@
